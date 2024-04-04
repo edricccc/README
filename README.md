@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **ttdat1507@gmail.com**.
 
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   
@@ -30,7 +29,7 @@
 </div>
 
 <!--
-**tamn2101/tamn2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edriccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
